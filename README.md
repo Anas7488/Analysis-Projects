@@ -5,6 +5,7 @@ Welcome to **Keystack Sales Insight 2015** – a visually rich and concise Power
 ---
 
 ## 🔍 Overview
+![Dashboard Screenshot](Dashboard.PNG)
 
 This dashboard was built to provide a **holistic view of sales and profit performance** using multiple filters and visuals. It enables decision-makers to understand how the company is performing across regions, categories, months, and product sub-categories — all at a glance.
 
